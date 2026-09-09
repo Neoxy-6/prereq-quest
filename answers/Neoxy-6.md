@@ -35,6 +35,8 @@ Languages I have used:
 <maybe how to pwn school server ???>
 <that's illegal I think xd>
 
+## Mission 01 — Linux
+
 ### Task A — find the file
 
 Path: missions/01-linux/files/.config/nested/.deep/.treasure
