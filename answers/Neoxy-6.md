@@ -71,6 +71,6 @@ What I changed: "COPY app/main.janet /app/main.janet" to "COPY app/main.janet /q
 
 ## Mission 06 — Improve something
 
-What I changed:
+What I changed: Added the "Have you used SSH before? Briefly describe a time you did (or say you haven't):" line to the Mission 03 section of answers/TEMPLATE.md.
 
-Why:
+Why: missions/03-ssh/README.md asks for that answer, but the templat didn't have the line — so anyone who copy the template might misses it. I did.

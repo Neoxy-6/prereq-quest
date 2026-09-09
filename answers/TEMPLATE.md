@@ -53,6 +53,8 @@ SSH token:
 
 Command I used:
 
+Have you used SSH before? Briefly describe a time you did (or say you haven't):
+
 ## Mission 04 — Debug
 
 What was wrong:
