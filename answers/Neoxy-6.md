@@ -23,17 +23,23 @@ Languages I have used: Chinese and English
 - [x] Use a debugger
 - [x] Use Linux as a primary development environment
 - [ ] `sudo rm -rf /` a server ???!
-- [x] <others lost a volleyball game against pikachu>
+- [x] Deploy code to an embedded controller and debug it on real hardware
+- [x] Tune a control loop (PID) against a physical system
+- [x] Build and deploy a web backend
+- [x] Train a small neural network
 
 ## Something I built
 
-<did u made a windows clone lol>
-<nope>
+- A complete FRC robot system, includes: driver station dashboard, networking, power distribution, structural build, vision system, path planing and motor controls
+- A minimal neural network from scratch (not pretty well, but it ran
+- Some websites, frontend and backend
+- A few small apps that turned out useless
 
 ## Something I want to understand better
 
-<maybe how to pwn school server ???>
-<that's illegal I think xd>
+- More powerful robotics technology
+- The theory behind neural networks and LLMs
+- Ability of finding resouce, tachnology and more useful tools (I lose a lot of time here
 
 ## Mission 01 — Linux
 
@@ -73,4 +79,4 @@ What I changed: "COPY app/main.janet /app/main.janet" to "COPY app/main.janet /q
 
 What I changed: Added the "Have you used SSH before? Briefly describe a time you did (or say you haven't):" line to the Mission 03 section of answers/TEMPLATE.md.
 
-Why: missions/03-ssh/README.md asks for that answer, but the templat didn't have the line — so anyone who copy the template might misses it. I did.
+Why: missions/03-ssh/README.md asks for that answer, but the templat didn't have the line — so anyone who copy the template might misses it. I did xd.
