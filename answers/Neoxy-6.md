@@ -5,13 +5,13 @@ Discord name, legal name, email address, or other private identifier. -->
 
 ## Environment
 
-OS:
+OS: ubuntu
 
-Editor / IDE:
+Editor / IDE: vscode
 
-Shell:
+Shell: bash
 
-Languages I have used:
+Languages I have used: Chinese and English
 
 ## Things I have done before
 
