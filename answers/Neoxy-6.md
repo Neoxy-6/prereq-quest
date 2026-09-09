@@ -55,9 +55,9 @@ Command I used: ssh -i ~/.ssh/prereq-quest-key flag@217.142.229.247
 
 ## Mission 04 — Debug
 
-What was wrong:
+What was wrong: 'the-answer' should return "42" instead of "41", `base-value` is wrong
 
-What I changed:
+What I changed: changed line 14 in "main,janet", 40 -> 41 
 
 ## Mission 05 — Docker
 
